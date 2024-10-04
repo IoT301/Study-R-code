@@ -1,8 +1,7 @@
 ---
-title: "Pregnancy Risk, Infant surveillance and Measurement Alliance (PRISMA)"
 subtitle: "Weekly Monitoring Report"
 author: 
-    name: "Statistics Team"
+    name: "Edwin Kiplelgo"
 date: today
 title-block-banner-color: dark
 title-block-banner: true
